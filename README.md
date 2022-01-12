@@ -6,6 +6,6 @@ I'm a first year student at the University of Waterloo double majoring in Comput
 - 👀 Looking for Summer 2022 internships!
 
 📫 How to reach me:
-- <a href="https://www.linkedin.com/in/brashan-mohanakumar-87340a225/?originalSubdomain=ca" alt="">Linkedin</a>
+- <a href="https://www.linkedin.com/in/brashan-mohanakumar" alt="">Linkedin</a>
 - <a href="https://brashanm.github.io" alt="">Personal Website</a>
 
