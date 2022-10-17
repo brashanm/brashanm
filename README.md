@@ -1,6 +1,6 @@
 👋 Hi, I’m Brashan Mohanakumar
 
-I'm a first year student at the University of Waterloo double majoring in Computer Science and Finance with a strong passion for web development and fin-tech. I'm currently looking for Summer 2022 Internships!
+I'm a second year student at the University of Waterloo in Computer Science with a strong passion for web development and fin-tech. I'm currently looking for Summer 2022 Internships!
 
 - 📈 I’m interested in web development and fin-tech
 - 👀 Looking for Summer 2022 internships!
