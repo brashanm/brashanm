@@ -2,7 +2,7 @@
 
 ![](https://github.com/brashanm/brashanm/blob/main/familyGuy.gif)
 
-I'm a 3A student at the University of Waterloo in Computer Science. I'm currently looking for Summer 2024 Internships!
+I'm a third-year student at the University of Waterloo in Computer Science. I'm currently looking for Summer 2024 Internships!
 
 - 📈 I’m interested in web/app development, data science, and fin-tech
 - 👀 Looking for Summer 2024 internships!
