@@ -4,6 +4,7 @@
 
 I'm a third-year student at the University of Waterloo in Computer Science. I'm currently looking for Summer 2024 Internships!
 
+- 🤩 I love everything sports, music and cartoon-related (especially Family Guy)
 - 📈 I’m interested in web/app development, data science, and fin-tech
 - 👀 Looking for Summer 2024 internships!
 
