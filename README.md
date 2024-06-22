@@ -56,7 +56,6 @@
   <a href="https://github.com/brashanm/" target="blank"><img align="center" src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="brashanm" /></a>
   <a href="https://github.com/brashanm/" target="blank"><img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="brashanm" /></a>
   <a href="https://github.com/brashanm/" target="blank"><img align="center" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge" alt="brashanm" /></a>
-  <a href="https://github.com/brashanm/" target="blank"><img align="center" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="brashanm" /></a>
   <a href="https://github.com/brashanm/" target="blank"><img align="center" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="brashanm" /></a>
   <a href="https://github.com/brashanm/" target="blank"><img align="center" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="brashanm" /></a>
   <a href="https://github.com/brashanm/" target="blank"><img align="center" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="brashanm" /></a>
