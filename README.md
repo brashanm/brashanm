@@ -10,7 +10,7 @@
 
   <li>I'm a 3B Computer Science student at the University of Waterloo! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Green%20Book.png" alt="Green Book" width="30" height="30" /></li>
 
-  <li>Passionate about tackling challenges head-on, with a keen interest in mobile development and backend architecture! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" /></li>
+  <li>I'm passionate about tackling challenges head-on, with a keen interest in mobile development and backend architecture! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" /></li>
 
   <li>I spend a lot of my time throwing orange balls into hoops <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Basketball.png" alt="Basketball" width="30" height="30" /> and watching chick flicks <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Movie%20Camera.png" alt="Movie Camera" width="30" height="30" /></li>
 
