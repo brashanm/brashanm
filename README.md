@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Brashan! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="40" height="40" /></h1>
+<h1 align="center">Hey, I'm Brashan! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="40" height="40" /></h1>
 
 <div align="center">
   <img align="center" src="https://github.com/brashanm/brashanm/blob/main/simpsons.gif"/>
