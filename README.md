@@ -18,7 +18,7 @@
 </ul>
 
 
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Closed Mailbox with Raised Flag" width="30" height="30" /> Let's Connect: <a align="center" href="https://www.linkedin.com/in/brashan" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="@brashan" /></a> <a align="center" href="mailto:bmohanak@uwaterloo.ca" target="_blank"> <img align="center" src="https://img.shields.io/badge/email-%230078D4.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="bmohanak@uwaterloo.ca"></a>
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Closed Mailbox with Raised Flag" width="30" height="30" /> Let's Connect: <a align="center" href="https://www.linkedin.com/in/brashan" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="@brashan" /></a> <a align="center" href="mailto:bmohanak@uwaterloo.ca" target="_blank"> <img align="center" src="https://img.shields.io/badge/email-%230078D4.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="bmohanak@uwaterloo.ca"></a>
 
 <h2>My Skills</h2>
 
