@@ -8,7 +8,7 @@
 <ul>
   <li>Favourite Quote: <i>You stay classy, San Diego.</i> - Ron Burgundy <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Anchor.png" alt="Anchor" width="30" height="30" /></li>
 
-  <li>I'm a 3B Computer Science student at the University of Waterloo <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Green%20Book.png" alt="Green Book" width="30" height="30" /></li>
+  <li>I'm a 3B Computer Science student at the University of Waterloo <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Goose.png" alt="Goose" width="30" height="30" /></li>
 
   <li>I'm passionate about tackling challenges head-on, with a keen interest in mobile development and backend architecture <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" /></li>
 
