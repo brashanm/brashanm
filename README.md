@@ -20,7 +20,8 @@
 
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Closed Mailbox with Raised Flag" width="30" height="30" /> Connect with me:   <a align="center" href="https://www.linkedin.com/in/brashan" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="@brashan" /></a> <a align="center" href="mailto:bmohanak@uwaterloo.ca" target="_blank"> <img align="center" src="https://img.shields.io/badge/email-%230078D4.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="bmohanak@uwaterloo.ca"></a><a align="center" href="https://www.brashan.tech/" target="_blank"> <img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="brashan.tech"/></a> <a align="center" href="https://apps.apple.com/us/developer/brashan-mohanakumar/id1725750347" target="_blank"> <img align="center" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/></a>
 
-<h2>My Skills</h2>
+
+<!-- <h2>My Skills</h2>
 
 <h3>Languages</h3>
 <p> 
@@ -65,4 +66,5 @@
   <a href="https://github.com/brashanm/" target="blank"><img align="center" src="https://img.shields.io/badge/CocoaPods-E32?logo=cocoapods&logoColor=fff&style=for-the-badge" alt="brashanm" /></a>
   <a href="https://github.com/brashanm/" target="blank"><img align="center" src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff&style=for-the-badge" alt="brashanm" /></a>
   <a href="https://github.com/brashanm/" target="blank"><img align="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="brashanm" /></a>
-</p>
+</p> -->
+
