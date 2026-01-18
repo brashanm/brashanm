@@ -14,7 +14,7 @@
 
   <li>I spend a lot of my time throwing orange balls into hoops <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Basketball.png" alt="Basketball" width="30" height="30" />, going all-in with 2-7 offsuit <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Spade%20Suit.png" alt="Spade Suit" width="30" height="30" />, and watching Grown Ups 2 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Movie%20Camera.png" alt="Movie Camera" width="30" height="30" /></li>
 
-  <li>I'm currently looking for Summer & Fall 2025 internships <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="30" height="30" /></li>
+  <li>I'm currently looking for 2026 New Grad Positions <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="30" height="30" /></li>
 </ul>
 
 
