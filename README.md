@@ -6,13 +6,13 @@
 
 <h2>About Me</h2>
 <ul>
-  <li>I'm a 4B Computer Science student at the University of Waterloo <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Goose.png" alt="Goose" width="30" height="30" /></li>
+  <li>I'm a recent Computer Science alumni at the University of Waterloo <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Goose.png" alt="Goose" width="30" height="30" /></li>
 
   <li>I'm passionate about tackling challenges head-on, with a keen interest in mobile development and backend architecture <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" /></li>
 
   <li>I spend a lot of my time throwing orange balls into hoops <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Basketball.png" alt="Basketball" width="30" height="30" />, going all-in with 2-7 offsuit <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Spade%20Suit.png" alt="Spade Suit" width="30" height="30" />, and watching Grown Ups 2 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Movie%20Camera.png" alt="Movie Camera" width="30" height="30" /></li>
 
-  <li>I'm currently looking for 2026 New Grad Positions <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="30" height="30" /></li>
+  <li>I'm always looking to connect with new people!<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="30" height="30" /></li>
 </ul>
 
 
